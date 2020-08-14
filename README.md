@@ -1,3 +1,3 @@
 # Bouncing Balls
 
-Available at [oosasukel.tk](http://oosasukel.tk){:target="_blank"}
+Available at <a href="http://oosasukel.tk">oosasukel.tk</a>
