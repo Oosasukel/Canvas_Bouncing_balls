@@ -2,4 +2,4 @@
 
 <img width="500" src="./presentation.gif">
 
-Available at <a href="http://oosasukel.tk">oosasukel.tk</a>
+Available <a href="https://oosasukel.github.io/Canvas_Bouncing_balls/">here</a>
